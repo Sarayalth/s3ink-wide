@@ -1,4 +1,4 @@
 # s3ink-wide
 s3ink-wide or something
 
-[Install](https://raw.githubusercontent.com/Sarayalth/s3ink-wide/main/s3ink-wide.user.js)
+[Install](https://github.com/Sarayalth/s3ink-wide/raw/mommy/s3ink-wide.user.js)
